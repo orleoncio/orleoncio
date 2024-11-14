@@ -2,16 +2,6 @@
 <h1>Tudo o que é grande começa pequeno.</h1>
 
 <!--Apresentação-->
-<p>Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.</p>
-
-<ul>
-  
-  <li> iniciando os estudos em Back End.</li>
-  
-  <li> Procurando a primeira oportunidade no mercado de trabalho.</li>
-  
-</ul>
-
 <p>
   Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.
 
@@ -28,13 +18,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Portfolio-->
-<h2>Portfolio</h2>
-<ul>
-  <li> Xadrez</li>
-  <li> Circuito Divisor</li>
-</ul>
-
-[![Circuito Divisor](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+## Portfolio:
+- [Xadrez]()
+- [Circuito Divisor](https://github.com/orleoncio/circuito-divisor)
 
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
 <!--
