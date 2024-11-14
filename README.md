@@ -1,13 +1,13 @@
 <!--Titulo-->
-<h1>Tudo o que é grande começa pequeno.</h1>
+<h1>Tudo o que é grande começa pequeno. 📖</h1>
 
 <!--Apresentação-->
 <p>
   Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.
 
-  - iniciando os estudos em Back End.
+  -🖥️ iniciando os estudos em Back End.
 
-  - Procurando a primeira oportunidade no mercado de trabalho.
+  -📃 Procurando a primeira oportunidade no mercado de trabalho.
 </p>
 
 <!--Rede Social-->
@@ -22,19 +22,33 @@
 - [Xadrez]()
 - [Circuito Divisor](https://github.com/orleoncio/circuito-divisor)
 
+<!--Gif-->
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
-<!--
-**orleoncio/orleoncio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Skills-->
+<h2>🔥 Skills</h2>
+<div style="flex-basis: 48%;">
+    <h3>Linguagens de Programação</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+    <img width="12" />
+</div>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="flex-basis: 48%;">
+    <h3>Ferramentas e Frameworks</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+<br>
+<br>
+<br>
+<br>
+<p style="margin-top:300px"><strong>O caminho do conhecimento é longo, mas gratificante.</strong></p>
