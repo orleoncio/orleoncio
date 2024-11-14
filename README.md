@@ -20,9 +20,10 @@
 <h2>Portfolio</h2>
 <ul>
   <li> Xadrez</li>
-  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
   <li> Circuito Divisor</li>
 </ul>
+
+[![Circuito Divisor](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
 
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
 <!--
