@@ -18,11 +18,9 @@
 
 <!--Portfolio-->
 <h2>Portfolio</h2>
-<ul>
+<ul style="margin-bottom:200px">
   <li></li>
 </ul>
-
-<div style="height : 200px"></div>
 
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
 <!--
