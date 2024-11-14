@@ -15,7 +15,7 @@
 
 <!--GitHubStats-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=algolia)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Portfolio-->
 ## Portfolio:
