@@ -20,6 +20,7 @@
 <h2>Portfolio</h2>
 <ul>
   <li> Xadrez</li>
+  [![Circuito Divisor](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
   <li> Circuito Divisor</li>
 </ul>
 
