@@ -12,6 +12,14 @@
   
 </ul>
 
+<p>
+  Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.
+
+  - iniciando os estudos em Back End.
+
+  - Procurando a primeira oportunidade no mercado de trabalho.
+</p>
+
 <!--Rede Social-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orleoncio/)
 
