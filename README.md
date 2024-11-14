@@ -1,4 +1,10 @@
-<h1>Testando o HTML</h1>
+<h1>Tudo o que é grande começa pequeno.</h1>
+
+<p>Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.</p>
+
+<ul>
+  <li>![image](https://github.com/user-attachments/assets/3a09df44-17d6-4941-bba2-342e42a9da30) </li>
+</ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=algolia)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
