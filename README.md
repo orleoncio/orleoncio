@@ -5,8 +5,11 @@
 <p>Olá, eu me chamo Orleoncio! Estudante de Ciências da Computação.</p>
 
 <ul>
+  
   <li> iniciando os estudos em Back End.</li>
+  
   <li> Procurando a primeira oportunidade no mercado de trabalho.</li>
+  
 </ul>
 
 <!--Rede Social-->
