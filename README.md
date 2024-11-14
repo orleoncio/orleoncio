@@ -1,6 +1,6 @@
 <h1>Testando o HTML</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=transparent)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=algolia)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
 
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
 <!--
