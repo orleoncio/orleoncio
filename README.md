@@ -19,7 +19,7 @@
 
 <!--Portfolio-->
 ## Portfolio:
-- [Xadrez]()
+<!--- [Xadrez]()-->
 - [Circuito Divisor](https://github.com/orleoncio/circuito-divisor)
 
 <!--Gif-->
