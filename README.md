@@ -33,6 +33,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
     <img width="12" />
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png"  height="40" alt="verylog logo"/>
+    <img width="12" />
 </div>
 
 <div style="flex-basis: 48%;">
