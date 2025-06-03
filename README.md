@@ -1,5 +1,5 @@
 <!--Titulo-->
-<h1>Tudo o que é grande começa pequeno. 📖</h1>
+<h1>O conhecimento é o único bem que aumenta quanto mais é partilhado. 📖</h1>
 
 <!--Apresentação-->
 <p>
@@ -33,6 +33,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
     <img width="12" />
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="40" alt="js logo" />
+    <img width="12" />
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png"  height="40" alt="verylog logo"/>
     <img width="12" />
 </div>
@@ -40,6 +42,8 @@
 <div style="flex-basis: 48%;">
     <h3>Ferramentas e Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+    <img width="12" />
+    <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" height="40" alt="react logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
