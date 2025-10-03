@@ -13,14 +13,16 @@
 <!--Rede Social-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orleoncio/)
 
+
 <!--GitHubStats-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=algolia)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orleoncio&show_icons=true&theme=algolia)](https://github.com/orleoncio/orleoncio/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orleoncio&show_icons=true&theme=algolia&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--Portfolio-->
-## Portfolio:
+<!--## Portfolio:-->
 <!--- [Xadrez]()-->
-- [Circuito Divisor](https://github.com/orleoncio/circuito-divisor)
+<!--- [Circuito Divisor](https://github.com/orleoncio/circuito-divisor)-->
+
 
 <!--Gif-->
 ![1d11s820dgm91](https://github.com/user-attachments/assets/a0103c00-173a-4c35-b602-f3188c2c200a)
